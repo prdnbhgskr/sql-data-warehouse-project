@@ -14,11 +14,11 @@ The solution focuses on building a centralised data warehouse using Microsoft SQ
 Design and implement a structured data warehouse environment that consolidates sales-related information into a unified data model. The goal is to enable efficient querying, analytical reporting, and data-driven decision making.
 
 #### Specifications
-  • **Data Sources**: Import datasets from two separate operational systems—ERP and CRM—provided in CSV format.
-  • **Data Quality Management**: Perform data cleaning and validation to address inconsistencies, missing values, and formatting issues before loading the data into the warehouse.
-  • **Data Integration**: Merge data from both source systems into a single analytical data model that supports efficient querying and reporting.
-  •	**Project Scope**: The warehouse will focus on the most recent dataset. Historical data tracking is not included in the scope of this implementation.
-  •	**Documentation**: Provide clear documentation of the data model structure to support both business users and analytics teams.
+- **Data Sources**: Import datasets from two separate operational systems—ERP and CRM—provided in CSV format.
+- **Data Quality Management**: Perform data cleaning and validation to address inconsistencies, missing values, and formatting issues before loading the data into the warehouse.
+- **Data Integration**: Merge data from both source systems into a single analytical data model that supports efficient querying and reporting.
+- **Project Scope**: The warehouse will focus on the most recent dataset. Historical data tracking is not included in the scope of this implementation.
+- **Documentation**: Provide clear documentation of the data model structure to support both business users and analytics teams.
 
 ---
 
@@ -26,9 +26,9 @@ Design and implement a structured data warehouse environment that consolidates s
 
 ##### Objective
 Develop analytical queries using SQL to generate insights related to key business areas, including:
-  •	**Customer Behaviour**
-  •	**Product Performance**
-  •	**Sales Trends**
+- **Customer Behaviour**
+- **Product Performance**
+- **Sales Trends**
 
 These insights provide stakeholders with meaningful metrics that support strategic decision-making and performance monitoring.
 
