@@ -4,7 +4,7 @@ This repository presents the development of a complete data warehousing and anal
 
 The solution focuses on building a centralised data warehouse using Microsoft SQL Server, integrating multiple business data sources and preparing them for analytical queries and reporting.
 
-⸻
+---
 
 ## Project Requirements
 
@@ -15,30 +15,37 @@ Design and implement a structured data warehouse environment that consolidates s
 
 #### Specifications
 • **Data Sources**: Import datasets from two separate operational systems—ERP and CRM—provided in CSV format.
+
 • **Data Quality Management**: Perform data cleaning and validation to address inconsistencies, missing values, and formatting issues before loading the data into the warehouse.
+
 • **Data Integration**: Merge data from both source systems into a single analytical data model that supports efficient querying and reporting.
+
 •	**Project Scope**: The warehouse will focus on the most recent dataset. Historical data tracking is not included in the scope of this implementation.
+
 •	**Documentation**: Provide clear documentation of the data model structure to support both business users and analytics teams.
 
-⸻
+---
 
 ### Business Intelligence & Analytics (Data Analytics)
 
 ##### Objective
 Develop analytical queries using SQL to generate insights related to key business areas, including:
+
 •	**Customer Behaviour**
+
 •	**Product Performance**
+
 •	**Sales Trends**
 
 These insights provide stakeholders with meaningful metrics that support strategic decision-making and performance monitoring.
 
-⸻
+---
 
 ## License
 This project is distributed under the MIT License.
 You are free to use, modify, and distribute the materials in this repository, provided that proper attribution is given.
 
-See the full license details in the [MIT License](LICENSE.md)vfile.
+See the full license details in the [MIT License](LICENSE) file.
 
 ## Acknowledgment & Attribution
 This project was developed by following the data engineering and data warehousing guidelines shared by **Baraa Khatib Salkini**, also known as **Data With Baraa**.
